@@ -1,0 +1,21 @@
+{
+    "schedules": {
+      "biology": {
+        "days": "Mondays and Wednesdays",
+        "time": "9 AM"
+      },
+      "maths": {
+        "days": "Tuesdays and Thursdays",
+        "time": "10:30 AM"
+      },
+      "computer science": {
+        "days": "Mondays, Wednesdays, and Fridays",
+        "time": "2 PM"
+      },
+      "history": {
+        "days": "Tuesdays and Thursdays",
+        "time": "1 PM"
+      }
+    }
+  }
+  
